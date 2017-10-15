@@ -21,10 +21,10 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 案例：
-    1.简单的使用了axios请求数据
-    2.stylus的使用
-    3.父组件传递数据给子组件
-    4.子组件传递数据给父组件
+    1.简单的使用了axios请求数据 </br>
+    2.stylus的使用 </br>
+    3.父组件传递数据给子组件 </br>
+    4.子组件传递数据给父组件 </br>
 
 
 cnpm install axios --save
